@@ -64,3 +64,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Acknowledgments
  - This package uses the RPi.GPIO library for GPIO control.
  - It also uses the spidev library for SPI communication.
+
+# More Information
+
+For more details, visit our website: [www.electronbits.com](https://www.electronbits.com)
