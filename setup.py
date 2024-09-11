@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='EBRPIH1118',
-    version='0.1.3',
+    version='0.1.4',
     author='ElectronBits',
     author_email='info@electronbits.com',
     description='A Python package to interface with the board, and control relays, digital inputs/outputs, and analog inputs on Raspberry Pi.',
