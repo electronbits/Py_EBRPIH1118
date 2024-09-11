@@ -1,5 +1,7 @@
 # EBRPIH1118
 
+![EBRPIH1118](https://raw.githubusercontent.com/electronbits/Py_EBRPIH1118/main/ebrpih1118.jpg)
+
 `EBRPIH1118` is a Python package designed to facilitate the control of hardware resources such as relays, digital inputs (DI), digital outputs (DO), analog inputs (AI), and temperature sensors on a Raspberry Pi. This package provides a convenient API to interact with GPIO pins and SPI devices, making it easy to develop automation applications on the Raspberry Pi.
 
 ## Features
